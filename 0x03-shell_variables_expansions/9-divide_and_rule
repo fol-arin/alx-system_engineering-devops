@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $(($POWER / $DIVIDE)) | ti "/n"
+echo $(($POWER / $DIVIDE)) 
